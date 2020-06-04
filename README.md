@@ -4,11 +4,17 @@ The purpose of this simalator(s) is the demonstration of non-visual nature of th
 
 This is the attempt to partially evaluate whether they have succeded.
 
-**Webcam necessary. Not compatible with mobile.**
+
+
+##### Webcam necessary. Not compatible with mobile.
 
 
 
 Currently three videos are simulated:
+
+
+
+
 
 ## Inanimate Sensation
 
@@ -21,6 +27,9 @@ Simulator: [link](https://www.openprocessing.org/sketch/910202/embed/?plusEmbedH
 ![isensation2](media/isensation2.png)
 
 
+
+
+
 ## Double Helix
 
 Original video: [link](https://www.youtube.com/watch?v=tWzJhkrZm5Y)
@@ -30,6 +39,10 @@ Original video: [link](https://www.youtube.com/watch?v=tWzJhkrZm5Y)
 Simulator: [link](https://www.openprocessing.org/sketch/910456/embed/?plusEmbedHash=Y2EwZmE4ZjNmZTgwZTYzZTA4YTc1NmI1YmFhNmMyNjhiNjM0MWMwZGY0NjE2YzliOGZkMWVmYmViNGI4NTY4YjYwNjEzNjk2NGI1MTU1MDFhOTg2NTEyYzdjZTQwZDliYWRjZTE5ZDVmZTU5ZTRmMzg2ZDkwZjYzMDZlZTAxYTMrOWlQdTBNczBLeWlKV0R5SDhHeXB5aTJsd2tmZ3FFYlgyVVcxUjhYYVd3TWsvcVhRRkJRbmRBSWE4NUJKQmJCaVlXV0ZqbVBTd3ZkbGtBQzMzaHFmdz09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
 ![dhelix2](media/dhelix2.png)
+
+
+
+
 
 ## No Love (Original Video)
 
@@ -42,7 +55,9 @@ Simulator: [link](https://www.openprocessing.org/sketch/911210/embed/?plusEmbedH
 ![nlove2](media/nlove2.png)
 
 
+
 ### A little personal note:
-God, how much I fucking hate JavaScript, and p5.js in particular!
+
+God, how much I fucking hate JavaScript, and p5.js in particular! Like, what the hell? No `sleep()`?! Those string interpolations were invented by Thanos himself. And don’t get me started on the scoping issues in JS!
 
 working js hosted on https://www.openprocessing.org/user/210599
