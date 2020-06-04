@@ -1,5 +1,12 @@
 # Death Grips simulator
 
+
+> Advertisers have been quick to take a cue from music video’s appeal, just as the videos have built on a stylistic base created by commercials.
+
+*Emily Caston, **The Dancing Eyes of the Director: Choreographers, Dance Cultures, and Film Genres in British Music Video 1979–2016***
+
+
+
 The purpose of this simalator(s) is the demonstration of non-visual nature of the band's performance, which goes against the visual hegemony of popular music, and hip hop in particular. The band makes clear attemps to reject, or at least ironisize the scopic regime as the necessary condition for music videos.
 
 This is the attempt to partially evaluate whether they have succeded.
