@@ -1,3 +1,7 @@
+// Death Grips -- Inanimate Sensation
+//
+// https://www.youtube.com/watch?v=r5GCn1BKkxg&t
+
 let capture;
 let img;
 

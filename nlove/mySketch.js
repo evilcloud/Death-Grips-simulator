@@ -2,7 +2,7 @@
 // https://www.youtube.com/watch?v=2MHhLDCJ57E
 //
 // TODO: freeze frame on the large text for a second
-// TODO: how the fuck do I do the string interpolation in JS?!
+// DONE: how the fuck do I do the string interpolation in JS?!
 // FIX: maybe learn some JS...
 
 let capture;
