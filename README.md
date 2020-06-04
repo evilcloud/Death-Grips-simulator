@@ -4,7 +4,7 @@ The purpose of this simalator(s) is the demonstration of non-visual nature of th
 
 This is the attempt to partially evaluate whether they have succeded.
 
-<u>*Webcam necessary. Not compatible with mobile.*</u>
+**Webcam necessary. Not compatible with mobile.**
 
 
 
@@ -40,3 +40,9 @@ Original video: [link](https://www.youtube.com/watch?v=2MHhLDCJ57E)
 Simulator: [link](https://www.openprocessing.org/sketch/911210/embed/?plusEmbedHash=MDQyN2IzMjNlNmI1MGYyODQ3MTI2YmJmMDk1N2U5MTc2OTkxMDEyY2I1Mzg3MzI0ODkzZDJjMjM3OWU0Mjc5ZGEzY2MxMzQ3NjdjODNhZGVhMzM1OGZiNGYzNDI4OWE4YjFiNzQ3MWYzNGFiZGIyOGVmYmEzYjA3N2Y0Yjk1ZmRPeCtXalp3eGpSUHM3ckRCYTBUZm53MHRYY0VGVXhyTmt1Y2QyYjB5NU56TnBCam0zOUJuNEhFSGJIa1E2Wm5NdXUxdURQRk8rRmIxUEIwS1hpL3JwUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
 ![nlove2](README.assets/nlove2.png)
+
+
+### A little personal note:
+God, how much I fucking hate JavaScript, and p5.js in particular!
+
+working js hosted on https://www.openprocessing.org/user/210599
