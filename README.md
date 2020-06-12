@@ -1,9 +1,9 @@
 # Death Grips simulator
 
 
-> Advertisers have been quick to take a cue from music video’s appeal, just as the videos have built on a stylistic base created by commercials.
+> As theorized by Vertov, film can overcome its indexical nature though montage, by presenting a viewer with objects that never existed in reality
 
-*Pat Aufderheide, 1986*
+*Lev Manovich, 2001*
 
 
 
