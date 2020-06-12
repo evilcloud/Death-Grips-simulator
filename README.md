@@ -7,9 +7,9 @@
 
 
 
-The purpose of this simalator(s) is the demonstration of non-visual nature of the band's performance, which goes against the visual hegemony of popular music, and hip hop in particular. The band makes clear attempts to reject, or at least ironisize by exaggerating the presence of scopic regime as the necessary condition for music videos, thus exposing the break with the classic synechdochal relationship between artist’s performance and the music video as the concept.
+The purpose of this simulator(s) is the demonstration of non-visual nature of the band's performance, which goes against the visual hegemony of popular music, and hip hop in particular. The band makes clear attempts to reject, or at least ironisize by exaggerating the presence of scopic regime as the necessary condition for music videos, thus exposing the break with the classic synechdochal relationship between artist’s performance and the music video as the concept.
 
-This is the attempt to partially evaluate whether they have succeded.
+This is the attempt to partially evaluate whether they have succeeded.
 
 
 
@@ -21,7 +21,7 @@ This is the attempt to partially evaluate whether they have succeded.
 
 
 
-Currently three videos are simulated:
+Currently, three videos are simulated:
 
 
 
@@ -35,7 +35,7 @@ Currently three videos are simulated:
 
 ### Simulator: [link](https://www.openprocessing.org/sketch/910202/embed/?plusEmbedHash=ZDg3MTgyYzI5YzU0MDFjNTM4NTZlYTZmM2NjZTQ3NzY4NmZhOTNiODI2ZWI5MmY5ZWFiNGM1ZDhmMDlmNDlkZDAzOTdmMzE5NjI0ZjYwNTEwNjg5NjQ3ODY1YjJmMzE1ZjMyYmExN2RkM2U0YWQ2ZjI1MjVmYjk5YWY5OGNmZWJ2RG11QUR0S1hXZUlJN0JOUHg0L1NKK095MVB3NHVsdTFvV0hlK1AwTjVLWnUwNHJXaHdlU3VsVzBNYmVnMCs1ZzR4Z2pYN21UbHkzVHE5bndkb0duUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-![isensation2](media/isensation2.png)
+[![isensation2](media/isensation2.png)][https://www.openprocessing.org/sketch/910202/embed/?plusEmbedHash=ZDg3MTgyYzI5YzU0MDFjNTM4NTZlYTZmM2NjZTQ3NzY4NmZhOTNiODI2ZWI5MmY5ZWFiNGM1ZDhmMDlmNDlkZDAzOTdmMzE5NjI0ZjYwNTEwNjg5NjQ3ODY1YjJmMzE1ZjMyYmExN2RkM2U0YWQ2ZjI1MjVmYjk5YWY5OGNmZWJ2RG11QUR0S1hXZUlJN0JOUHg0L1NKK095MVB3NHVsdTFvV0hlK1AwTjVLWnUwNHJXaHdlU3VsVzBNYmVnMCs1ZzR4Z2pYN21UbHkzVHE5bndkb0duUT09&plusEmbedTitle=true&plusEmbedFullscreen=true]
 
 
 
