@@ -69,4 +69,6 @@ Currently three videos are simulated:
 working js hosted on https://www.openprocessing.org/user/210599#sketches
 
 
-<a href="http://www.wtfpl.net/"><img src="/media/wftpl-badge-1.png" width="80" height="15" alt="WTFPL" /></a>
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"
+       width="80" height="15" alt="WTFPL" /></a>
