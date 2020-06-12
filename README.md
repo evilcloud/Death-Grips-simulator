@@ -31,7 +31,7 @@ Currently, three videos are simulated:
 
 ### Original video: [link](https://www.youtube.com/watch?v=r5GCn1BKkxg&t=170s)
 
-![isensation](media/isensation.png)
+[![isensation](media/isensation.png)](https://www.youtube.com/watch?v=r5GCn1BKkxg&t=170s)
 
 ### Simulator: [link](https://www.openprocessing.org/sketch/910202/embed/?plusEmbedHash=ZDg3MTgyYzI5YzU0MDFjNTM4NTZlYTZmM2NjZTQ3NzY4NmZhOTNiODI2ZWI5MmY5ZWFiNGM1ZDhmMDlmNDlkZDAzOTdmMzE5NjI0ZjYwNTEwNjg5NjQ3ODY1YjJmMzE1ZjMyYmExN2RkM2U0YWQ2ZjI1MjVmYjk5YWY5OGNmZWJ2RG11QUR0S1hXZUlJN0JOUHg0L1NKK095MVB3NHVsdTFvV0hlK1AwTjVLWnUwNHJXaHdlU3VsVzBNYmVnMCs1ZzR4Z2pYN21UbHkzVHE5bndkb0duUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
@@ -45,11 +45,11 @@ Currently, three videos are simulated:
 
 ### Original video: [link](https://www.youtube.com/watch?v=tWzJhkrZm5Y)
 
-![dhelix](media/dhelix-1260485.png)
+[![dhelix](media/dhelix-1260485.png)](https://www.youtube.com/watch?v=tWzJhkrZm5Y)
 
 ### Simulator: [link](https://www.openprocessing.org/sketch/910456/embed/?plusEmbedHash=Y2EwZmE4ZjNmZTgwZTYzZTA4YTc1NmI1YmFhNmMyNjhiNjM0MWMwZGY0NjE2YzliOGZkMWVmYmViNGI4NTY4YjYwNjEzNjk2NGI1MTU1MDFhOTg2NTEyYzdjZTQwZDliYWRjZTE5ZDVmZTU5ZTRmMzg2ZDkwZjYzMDZlZTAxYTMrOWlQdTBNczBLeWlKV0R5SDhHeXB5aTJsd2tmZ3FFYlgyVVcxUjhYYVd3TWsvcVhRRkJRbmRBSWE4NUJKQmJCaVlXV0ZqbVBTd3ZkbGtBQzMzaHFmdz09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-![dhelix2](media/dhelix2.png)
+[![dhelix2](media/dhelix2.png)](https://www.openprocessing.org/sketch/910456/embed/?plusEmbedHash=Y2EwZmE4ZjNmZTgwZTYzZTA4YTc1NmI1YmFhNmMyNjhiNjM0MWMwZGY0NjE2YzliOGZkMWVmYmViNGI4NTY4YjYwNjEzNjk2NGI1MTU1MDFhOTg2NTEyYzdjZTQwZDliYWRjZTE5ZDVmZTU5ZTRmMzg2ZDkwZjYzMDZlZTAxYTMrOWlQdTBNczBLeWlKV0R5SDhHeXB5aTJsd2tmZ3FFYlgyVVcxUjhYYVd3TWsvcVhRRkJRbmRBSWE4NUJKQmJCaVlXV0ZqbVBTd3ZkbGtBQzMzaHFmdz09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
 
 
@@ -59,15 +59,16 @@ Currently, three videos are simulated:
 
 ### Original video: [link](https://www.youtube.com/watch?v=2MHhLDCJ57E)
 
-![nlove](media/nlove.png)
+[![nlove](media/nlove.png)](https://www.youtube.com/watch?v=2MHhLDCJ57E
 
 ### Simulator: [link](https://www.openprocessing.org/sketch/911210/embed/?plusEmbedHash=MDQyN2IzMjNlNmI1MGYyODQ3MTI2YmJmMDk1N2U5MTc2OTkxMDEyY2I1Mzg3MzI0ODkzZDJjMjM3OWU0Mjc5ZGEzY2MxMzQ3NjdjODNhZGVhMzM1OGZiNGYzNDI4OWE4YjFiNzQ3MWYzNGFiZGIyOGVmYmEzYjA3N2Y0Yjk1ZmRPeCtXalp3eGpSUHM3ckRCYTBUZm53MHRYY0VGVXhyTmt1Y2QyYjB5NU56TnBCam0zOUJuNEhFSGJIa1E2Wm5NdXUxdURQRk8rRmIxUEIwS1hpL3JwUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-![nlove2](media/nlove2.png)
+[![nlove2](media/nlove2.png)](https://www.openprocessing.org/sketch/911210/embed/?plusEmbedHash=MDQyN2IzMjNlNmI1MGYyODQ3MTI2YmJmMDk1N2U5MTc2OTkxMDEyY2I1Mzg3MzI0ODkzZDJjMjM3OWU0Mjc5ZGEzY2MxMzQ3NjdjODNhZGVhMzM1OGZiNGYzNDI4OWE4YjFiNzQ3MWYzNGFiZGIyOGVmYmEzYjA3N2Y0Yjk1ZmRPeCtXalp3eGpSUHM3ckRCYTBUZm53MHRYY0VGVXhyTmt1Y2QyYjB5NU56TnBCam0zOUJuNEhFSGJIa1E2Wm5NdXUxdURQRk8rRmIxUEIwS1hpL3JwUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
 
 working js hosted on https://www.openprocessing.org/user/210599#sketches
 
-
+## License
+All work present on this site is licensed under [WTFPL (Do What The Fuck You Want to Public License)](https://github.com/evilcloud/Death-Grips-simulator/blob/master/LICENSE.md)
 <a href="http://www.wtfpl.net/"><img
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" alt="WTFPL" /></a>
