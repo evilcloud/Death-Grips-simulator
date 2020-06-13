@@ -1,7 +1,15 @@
-// Death Grips -- No Love (Official Video)
+// Death Grips simulator: Double Helix
+//
+// A supplemental artefact for the paper:
+// "Cool media as the way to reclaim music from audiovisual hegemony"
+// from 2020-06-12
+// https://github.com/evilcloud/Death-Grips-simulator
+//
+// Original video:
 // https://www.youtube.com/watch?v=2MHhLDCJ57E
 //
 // TODO: freeze frame on the large text for a second
+// TODO: fix enumeration (twentytenth)
 // DONE: how the fuck do I do the string interpolation in JS?!
 // FIX: maybe learn some JS...
 

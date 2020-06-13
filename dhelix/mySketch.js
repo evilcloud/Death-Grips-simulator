@@ -1,12 +1,18 @@
-// Death Grips -- Double Helix
+// Death Grips simulator: Double Helix
 //
+// A supplemental artefact for the paper:
+// "Cool media as the way to reclaim music from audiovisual hegemony"
+// from 2020-06-12
+// https://github.com/evilcloud/Death-Grips-simulator
+//
+// Original video:
 // https://www.youtube.com/watch?v=tWzJhkrZm5Y
 
 let capture;
 let img;
 
 function preload() {
-  img = loadImage("dhelix@2x.png");
+  img = loadImage("bkframe.jpg");
 }
 
 function setup() {

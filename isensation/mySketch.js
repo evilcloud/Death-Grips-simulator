@@ -1,12 +1,18 @@
-// Death Grips -- Inanimate Sensation
+// Death Grips simulator: Inanimate Sensation
 //
-// https://www.youtube.com/watch?v=r5GCn1BKkxg&t
+// A supplemental artefact for the paper:
+// "Cool media as the way to reclaim music from audiovisual hegemony"
+// from 2020-06-12
+// https://github.com/evilcloud/Death-Grips-simulator
+//
+// Original video:
+// https://www.youtube.com/watch?v=r5GCn1BKkxg
 
 let capture;
 let img;
 
 function preload() {
-  img = loadImage("DG@2x.png");
+  img = loadImage("bkframe.jpg");
 }
 
 function setup() {
@@ -31,7 +37,6 @@ function setup() {
 }
 
 function draw() {
-
   translate(1, height / 1.8);
   rotate((7 * PI) / 3.97);
 
