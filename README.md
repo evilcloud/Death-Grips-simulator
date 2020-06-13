@@ -21,7 +21,7 @@ This is the attempt to partially evaluate whether they have succeeded.
 >
 >The bands’ performance within the frame has been replaced with the direct webcam stream of the reader/viewer. The viewer then is invited to observe the personal reaction to the seen, altering own behaviours on the screen. The viewer is also encouraged to attempt to imitate the band members as well. This is a highly experiential experiment.
 
-_Cool media as the way to reclaim music from audiovisual hegemony_, (2020)
+_Cool media as the way to reclaim music from audiovisual hegemony, 2020_
 
 
 ## How to use
