@@ -22,12 +22,18 @@ This is the attempt to partially evaluate whether they have succeeded.
 
 ## Background and reasoning
 
+This project exists as an extension for the paper written on the 12th June, 2020 titled _Cool media as the way to reclaim music from audiovisual hegemony_
+
+The main topic of the paper is the progression of music videos as a medium into a fully integrated audiovisual units, denying misic artsts the value of pure musical compositions they were making, and creating unspoken requirements by the audience for visuals, not as a supplement, but as an integral part of the composition. The overtaking of the music video industry over music in the visually dominating reality seemed natural within that hegemony. Death Grips are an example of a pushback -- using the same technique popularised in the postmodernist condition, albeit amplifying, distorting, separating the visuals away from the music and denying the "natural" semiological interpretation, the band is mockng scopic regime.
+
 >These simulations are essentially a completely isolated visual component of the respective music videos — removed are the music, the lyrics, the sound, the artists themselves, their performance, the timeline. What is left is the superficial visual frame, that represents the only relatively stable narrative element in their music videos. The purpose is to demonstrate tasks carried out by the band’s performance versus the tasks done by the visuals.
 >
 >The bands’ performance within the frame has been replaced with the direct webcam stream of the reader/viewer. The viewer then is invited to observe the personal reaction to the seen, altering own behaviours on the screen. The viewer is also encouraged to attempt to imitate the band members as well. This is a highly experiential experiment.
 
 _Cool media as the way to reclaim music from audiovisual hegemony, 2020_
 
+
+Link to the paper (<img src="https://render.githubusercontent.com/render/math?math=\LaTeX">) can be found [here](media/paper.tex)
 
 ## How to use
 
@@ -84,6 +90,9 @@ Currently, three videos are simulated:
 ---
 
 ## License
+With the exception of the "frames" in _Inanimate Sensation_ and _Double Helix_, which were lifted from Death Grips misic videos on YouTube withouth any concent from the band or their record label, as well as the (buggy) JS enumeration function, found on Stack Overflow, all else is the product of intellectual efforts of this author.
+
+
 All work present on this site is licensed under [WTFPL — _Do What The Fuck You Want to Public License_](https://github.com/evilcloud/Death-Grips-simulator/blob/master/LICENSE.md)
 
 <a href="http://www.wtfpl.net/"><img
