@@ -1,3 +1,8 @@
+<p align="center">
+  <img width=100% src="media/bkgr.jpg">
+</p>
+
+
 # Death Grips simulator
 
 
