@@ -3,7 +3,8 @@
 
 > As theorized by Vertov, film can overcome its indexical nature though montage, by presenting a viewer with objects that never existed in reality
 
-<div style="text-align: right"><i>Lev Manovich, 2001</i></div></p>
+_Lev Manovich, 2001_
+
 
 
 The purpose of this simulator(s) is the demonstration of non-visual nature of the band's performance, which goes against the visual hegemony of popular music, and hip hop in particular. The band makes clear attempts to reject, or at least ironisize by exaggerating the presence of scopic regime as the necessary condition for music videos, thus exposing the break with the classic synechdochal relationship between artist’s performance and the music video as the concept.
@@ -51,9 +52,7 @@ Currently, three videos are simulated:
 
 [![isensation2](media/isensation2.jpg)](https://www.openprocessing.org/sketch/910202/embed/?plusEmbedHash=ZDg3MTgyYzI5YzU0MDFjNTM4NTZlYTZmM2NjZTQ3NzY4NmZhOTNiODI2ZWI5MmY5ZWFiNGM1ZDhmMDlmNDlkZDAzOTdmMzE5NjI0ZjYwNTEwNjg5NjQ3ODY1YjJmMzE1ZjMyYmExN2RkM2U0YWQ2ZjI1MjVmYjk5YWY5OGNmZWJ2RG11QUR0S1hXZUlJN0JOUHg0L1NKK095MVB3NHVsdTFvV0hlK1AwTjVLWnUwNHJXaHdlU3VsVzBNYmVnMCs1ZzR4Z2pYN21UbHkzVHE5bndkb0duUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-
-
-
+---
 
 ### Double Helix
 
@@ -65,9 +64,7 @@ Currently, three videos are simulated:
 
 [![dhelix2](media/dhelix2.jpg)](https://www.openprocessing.org/sketch/910456/embed/?plusEmbedHash=Y2EwZmE4ZjNmZTgwZTYzZTA4YTc1NmI1YmFhNmMyNjhiNjM0MWMwZGY0NjE2YzliOGZkMWVmYmViNGI4NTY4YjYwNjEzNjk2NGI1MTU1MDFhOTg2NTEyYzdjZTQwZDliYWRjZTE5ZDVmZTU5ZTRmMzg2ZDkwZjYzMDZlZTAxYTMrOWlQdTBNczBLeWlKV0R5SDhHeXB5aTJsd2tmZ3FFYlgyVVcxUjhYYVd3TWsvcVhRRkJRbmRBSWE4NUJKQmJCaVlXV0ZqbVBTd3ZkbGtBQzMzaHFmdz09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-
-
-
+---
 
 ### No Love (Original Video)
 
@@ -79,8 +76,7 @@ Currently, three videos are simulated:
 
 [![nlove2](media/nlove2.jpg)](https://www.openprocessing.org/sketch/911210/embed/?plusEmbedHash=MDQyN2IzMjNlNmI1MGYyODQ3MTI2YmJmMDk1N2U5MTc2OTkxMDEyY2I1Mzg3MzI0ODkzZDJjMjM3OWU0Mjc5ZGEzY2MxMzQ3NjdjODNhZGVhMzM1OGZiNGYzNDI4OWE4YjFiNzQ3MWYzNGFiZGIyOGVmYmEzYjA3N2Y0Yjk1ZmRPeCtXalp3eGpSUHM3ckRCYTBUZm53MHRYY0VGVXhyTmt1Y2QyYjB5NU56TnBCam0zOUJuNEhFSGJIa1E2Wm5NdXUxdURQRk8rRmIxUEIwS1hpL3JwUT09&plusEmbedTitle=true&plusEmbedFullscreen=true)
 
-
-working js hosted on https://www.openprocessing.org/user/210599#sketches
+---
 
 ## License
 All work present on this site is licensed under [WTFPL — _Do What The Fuck You Want to Public License_](https://github.com/evilcloud/Death-Grips-simulator/blob/master/LICENSE.md)
